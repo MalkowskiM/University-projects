@@ -1,0 +1,2 @@
+Aby uruchomić program w terminalu należy odnaleźć folder gdzie zapisany jest program i jak już się w nim znajdziemy wpisać "python Projekt2_ISMED.py"
+By program zadziałał na komputerze musi być zainstalowany python 3.11 i moduły pandas, numpy, matplotlib,  customtkiner oraz scipy
